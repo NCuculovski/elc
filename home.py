@@ -669,7 +669,7 @@ if check_password():
         """)
 
         st.subheader("**Real Life Example: GAIA in the AlcBev Industry**")
-        st.markdown('*“Understanding the relationship between alcohol use and geographic location requires more than assessing population density and proximity to a metropolitan area. A number of social and cultural factors are related to alcohol use patterns and also characterize urban and rural settings. These include religious cultural practices, community and family relationships, economic conditions, the availability of alcohol, and the enforcement of alcohol laws, among others. **One mechanism that links these characteristics to drinking is the potential to control (increase or decrease) access to alcohol for residents in an area**, but they may alternatively represent potential buffers or stressors that influence alcohol use as well.” ~ [Alcohol Use Patterns Among Urban and Rural Residents, Alcohol Res. 2016; 38(1): 69–77](https://pubmed.ncbi.nlm.nih.gov/27159813/).*')
+        st.markdown('*“A specific product’s success depends on one’s perception that the product will make one more attractive. Hence, the perception of attractiveness is a function of culture, society, and the purchase time frame.  Specifically, what is considered attractive in one society may vary in another. In addition, that which is considered attractive today may not be considered attractive tomorrow. Given that purchasing power parity and disposable income are the main drivers of per capita cosmetics consumption, they greatly influence purchasing habits and product success within each region.*')
         
         with st.expander("Deconstructing Consumption Habits", expanded=False):
             tab1, tab2, tab3 = st.tabs(["Culture", "Time", "Distance"])
