@@ -674,7 +674,7 @@ if check_password():
             """
         *A specific product’s success depends on one’s perception that the product will make one more attractive. Hence, the perception of attractiveness is a function of culture, society, and the purchase time frame.  Specifically, what is considered attractive in one society may vary in another. In addition, that which is considered attractive today may not be considered attractive tomorrow. Given that purchasing power parity and disposable income are the main drivers of per capita cosmetics consumption, they greatly influence purchasing habits and product success within each region.*
 
-        Will the Lipstick Effect protect the industry this year?** Fabrizio Freda, President, Chief Executive Officer & Director, The Estée Lauder Companies, Inc., acknowledges that the “prolonged pandemic, the invasion of Ukraine, and the onset of higher inflation” are external factors and considerations affecting business performance.
+        **Will the Lipstick Effect protect the industry this year?** Fabrizio Freda, President, Chief Executive Officer & Director, The Estée Lauder Companies, Inc., acknowledges that the “prolonged pandemic, the invasion of Ukraine, and the onset of higher inflation” are external factors and considerations affecting business performance.
         
         According to Bloomberg, and a report conducted by IRI, a data analytics and market research company, it “revealed that 58% of consumers already report that they have cut down on essentials, with 35% dipping into their personal savings and taking out loans to pay bills.”
         
