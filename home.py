@@ -676,7 +676,7 @@ if check_password():
         
         with tab1:
             st.markdown('### Culture')
-            st.markdown('There are numerous cultural drinking differences, hence a localized targeting approach is needed. Urban drinkers are more likely than suburban drinkers to report drinking more than 14 drinks for men and more than 7 drinks for women in a typical week, with rural drinkers in the middle. Urban African Americans tend to have higher abstinence rates (63%) than urban Caucasians (50%), while rural residents of both races had similar abstinence rates (67% and 66%, respectively). Another study suggests that there is little difference in the quantity of alcohol consumed by urban and rural American Indians, but that urban American Indians tend to drink more frequently.')
+            st.markdown('From country to country, spending on cosmetics varies by product type. For example, the French primarily purchase skin care products, while Germans and the British spend the most on toiletries. Compared to the EU average, Nordic countries spend a much lower share of their consumption basket on fragrances. Yet, Spain and Portugal spent lower-than-average shares on decorative cosmetics. In all those countries, metropolitan vs. rural areas also have varied differences. Demographics, family structures, migration patterns, education levels, homeownership, and proximity to choice are a few factors that impact consumer behavior. Given the cultural differences within and across the urban and rural areas across those regions, such permutations require surgically tailored marketing strategies.')
 
         with tab2:
             st.markdown('### Time')
