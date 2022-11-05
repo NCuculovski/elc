@@ -141,7 +141,7 @@ if check_password():
         st.markdown(hide_menu_style, unsafe_allow_html=True)
 
         ## import image
-        image = Image.open('mvr_2.png')
+        image = Image.open('logo.png')
         ## write image
         col1, col2, col3 = st.columns([1.5,3,1.5])
         with col1:
@@ -224,7 +224,7 @@ if check_password():
         st.markdown(hide_menu_style, unsafe_allow_html=True)
         
         ## import image
-        image = Image.open('mvr_2.png')
+        image = Image.open('logo.png')
         ## write image
         col1, col2, col3 = st.columns([1.5,3,1.5])
         with col1:
@@ -322,7 +322,7 @@ if check_password():
         st.markdown(hide_menu_style, unsafe_allow_html=True)
         
         ## import image
-        image = Image.open('mvr_2.png')
+        image = Image.open('logo.png')
         ## write image
         col1, col2, col3 = st.columns([1.5,3,1.5])
         with col1:
@@ -405,7 +405,7 @@ if check_password():
         st.markdown(hide_menu_style, unsafe_allow_html=True)
         
         ## import image
-        image = Image.open('mvr_2.png')
+        image = Image.open('logo.png')
         ## write image
         col1, col2, col3 = st.columns([1.5,3,1.5])
         with col1:
@@ -521,7 +521,7 @@ if check_password():
         st.markdown(hide_menu_style, unsafe_allow_html=True)
 
         ## import image
-        image = Image.open('mvr_2.png')
+        image = Image.open('logo.png')
         ## write image
         col1, col2, col3 = st.columns([1.5,3,1.5])
         with col1:
@@ -636,7 +636,7 @@ if check_password():
         st.markdown(hide_menu_style, unsafe_allow_html=True)
 
         ## import image
-        image = Image.open('mvr_2.png')
+        image = Image.open('logo.png')
         ## write image
         col1, col2, col3 = st.columns([1.5,3,1.5])
         with col1:
@@ -732,7 +732,7 @@ if check_password():
         st.markdown(hide_menu_style, unsafe_allow_html=True)
 
         ## import image
-        image = Image.open('mvr_2.png')
+        image = Image.open('logo.png')
         ## write image
         col1, col2, col3 = st.columns([1.5,3,1.5])
         with col1:
@@ -886,7 +886,7 @@ if check_password():
         st.markdown(hide_menu_style, unsafe_allow_html=True)
 
     ## import image
-        image = Image.open('mvr_2.png')
+        image = Image.open('logo.png')
         ## write image
         col1, col2, col3 = st.columns([1.5,3,1.5])
         with col1:
@@ -920,7 +920,7 @@ if check_password():
         st.markdown(hide_menu_style, unsafe_allow_html=True)
 
     ## import image
-        image = Image.open('mvr_2.png')
+        image = Image.open('logo.png')
         ## write image
         col1, col2, col3 = st.columns([1.5,3,1.5])
         with col1:
