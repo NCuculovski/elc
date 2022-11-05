@@ -691,6 +691,11 @@ if check_password():
         """
         )
 
+        ## intro paragraph
+        st.markdown("""
+        ***
+        """)
+
         with st.expander("Deconstructing Consumption Habits", expanded=False):
             tab1, tab2, tab3 = st.tabs(["Culture", "Time", "Distance"])
         
