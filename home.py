@@ -695,15 +695,15 @@ if check_password():
         
         with tab1:
             st.markdown('### Container-based')
-            st.markdown('Container-based measures of alcohol outlet density are calculated based on the number of alcohol outlets in a specified area. The containers can be (a) predefined geopolitical units (e.g., cities, census tracts, DMAs, zip codes), or geographic areas defined by specific features, such as roadways; or (b) user-defined (e.g., a 1-mile buffer zone area around a local neighborhood, a 5-mile driving distance, a 5-minute driving time from a local neighborhood).')
+            st.markdown('Container-based measures the access outlet density calculated based on the number of skincare / cometics outlets in a specified area. The containers can be (a) predefined geopolitical units (e.g., cities, census tracts, DMAs, zip codes), or geographic areas defined by specific features, such as roadways; or (b) user-defined (e.g., a 1-mile buffer zone area around a local neighborhood, a 5-mile driving distance, a 5-minute driving time from a local neighborhood).')
 
         with tab2:
             st.markdown('### Spatial-based')
-            st.markdown('Also called gravity-based measures - is based on the distances between a reference point (e.g., a high performing off-premise or on-premise center) and a selected number of alcohol outlets within a given radius. There are two types of spatial access-based measures: (1) the spatial accessibility index and (2) the population-weighted distance. This measure identifies the nodes of the network that can be found in the container.')
+            st.markdown('Also called gravity-based measures - is based on the distances between a reference point (e.g., a high performing off-premise or on-premise center) and a selected number of skincare / cometics outlets within a given radius. There are two types of spatial access-based measures: (1) the spatial accessibility index and (2) the population-weighted distance. This measure identifies the nodes of the network that can be found in the container.')
 
         with tab3:
             st.markdown('### Distance-based')
-            st.markdown('To calculate alcohol outlet density as well as the edges in the network, this approach quantifies the distances between alcohol outlets—the distances between the point of critical mass based against the surrounding alcohol outlets.')
+            st.markdown('To calculate skincare / cometics outlet density as well as the edges in the network, this approach quantifies the distances between skincare / cometics outlets—the distances between the point of critical mass based against the surrounding skincare / cometics outlets.')
         
         st.markdown("""
         ***
