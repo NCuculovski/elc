@@ -966,7 +966,7 @@ if check_password():
         st.subheader("**Intelligence Input**")
         
         with st.expander("Evaluation Criteria", expanded=False):
-            tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["Media Mix Modelling", "Multi-Touch Attribution", "Uplift Modelling", "Forecasting", "Data.Malt", "Last-Touch Attribution"])
+            tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["Media Mix Modelling", "Multi-Touch Attribution", "Uplift Modelling", "Forecasting", "GAIA", "Last-Touch Attribution"])
         with tab1:
             col1, col2, col3 = st.columns(3)
             with col1:
@@ -1249,7 +1249,7 @@ if check_password():
         pr6_cost_avg = (cs6_ability + cs6_key_initiatives + cs6_decision_complexity) / 3
         pr6_negative = pr6_data_avg + pr6_tech_avg + pr3_cost_avg * ((risk)/100)
 
-        thor_data = [['Media Mix Modelling', pr1_positive, pr1_negative], ['Multi-Touch Attribution', pr2_positive, pr2_negative], ['Uplift Modelling', pr3_positive, pr3_negative], ['Forecasting', pr4_positive, pr4_negative], ['Data.Malt', pr5_positive, pr5_negative], ['Last-Touch Attribution', pr6_positive, pr6_negative]]
+        thor_data = [['Media Mix Modelling', pr1_positive, pr1_negative], ['Multi-Touch Attribution', pr2_positive, pr2_negative], ['Uplift Modelling', pr3_positive, pr3_negative], ['Forecasting', pr4_positive, pr4_negative], ['GAIA', pr5_positive, pr5_negative], ['Last-Touch Attribution', pr6_positive, pr6_negative]]
         thor_df = pd.DataFrame(thor_data, columns=['Product Name', 'Reward', 'Risk'])
 
         chart2 = alt.Chart(thor_df).mark_circle().encode(
@@ -1275,7 +1275,7 @@ if check_password():
         "Ad-Stock Modeling": adstock_demo,
         "Asher Optimizer": asher_demo,
         "Automation & QA": automation_demo,
-        "Data.Malt": datamalt_demo,
+        "GAIA": datamalt_demo,
         "Inflection Planning Dashboard": inflection_demo,
         "Media Effectiveness: MTA & MMM": mmm_demo,
         "THOR": thor_demo,
